@@ -1,0 +1,17 @@
+Does it have feathers?
+Does it live in a barnyard?
+chicken
+Is it wise?
+owl
+Does it say "Nevermore!"?
+raven
+Does it gobble?
+turkey
+eagle
+Is it a mammal?
+Does it have stripes?
+tiger
+Does it hop?
+kangaroo
+elephant
+gila monster
